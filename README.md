@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#2F80ED">Almazaal</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud%20Engineering;DevOps%20Enthusiast;Infrastructure%20Automation;Software%20Developer;Always%20Learning%20New%20Technologies&font=Fira%20Code&center=true&width=700&height=55&duration=2800&pause=900&color=2F80ED&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud%20Engineering;DevOps%20Enthusiast;Infrastructure%20Automation;Software%20Engineering;Always%20Learning%20New%20Technologies&font=Fira%20Code&center=true&width=700&height=55&duration=2800&pause=900&color=2F80ED&size=22" />
 </p>
 
 ---
