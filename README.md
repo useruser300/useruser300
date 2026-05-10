@@ -29,6 +29,5 @@ B.Sc. Informatik graduate from TU Dortmund with hands-on experience in cloud tec
 
 ## Currently Learning
 
-- Advanced Kubernetes Operations  
 - CI/CD Best Practices  
 - Cloud Architecture Design  
